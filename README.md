@@ -54,6 +54,6 @@ Cisco Packet Tracer. Threat model referenced Yersinia (DTP), hping3 (ICMP flood)
 
 ## My contribution
 
-Led the group work — coordinated the build, kept the team aligned, and made sure every member could speak to every part. We worked across all sections together.
+Led the group work, coordinated the build, kept the team aligned, and made sure every member could speak to every part. We worked across all sections together.
 
 ---
